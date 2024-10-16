@@ -1,0 +1,99 @@
+.header {
+    background-color: #e5d1ff;
+    padding: 6px
+}
+
+.buttons {
+    position: absolute;
+    top: 30px;
+    right: 25px;
+}
+
+.intro {
+    background-color: #e5d1ff; 
+    position: absolute;
+    top: 250px; 
+    left: 50px; 
+    margin-left:250px; 
+    margin-right:40px;
+    font-size: 20px;
+  }
+.blankspace1 {
+    background-color: #e5d1ff; 
+    top: 30px
+  }
+
+.fraud {
+    background-color: #e5d1ff;
+    position: absolute;
+    top: 690px; 
+    left: 0px; 
+    margin-left:20px; 
+    margin-right:600px;
+    font-size: 20px;
+  }
+
+.pic1 {
+    position: absolute;
+    top: 160px;
+    left: 40px;
+    z-index: 1;
+}
+.blankspace2 {
+    background-color: #e5d1ff; 
+    top: 10px
+  }
+
+.pic2 {
+    position: absolute;
+    top: 700px;
+    right: 40px;
+    z-index: 1;
+}
+  
+.crypto {
+    background-color: #e5d1ff;
+    position: absolute;
+    top: 1090px; 
+    margin-left:400px; 
+    margin-right:20px;
+    font-size: 20px;
+  }
+
+.blankspace3 {
+    background-color: #e5d1ff; 
+    top: 10px
+  }
+.pic3 {
+    position: absolute;
+    top: 1080px;
+    left: 40px;
+    z-index: 1;
+}
+.poverty {
+    background-color: #e5d1ff;
+    position: absolute;
+    top: 1460px; 
+    margin-left:20px; 
+    margin-right:400px;
+    font-size: 20px;
+  }
+
+
+.blankspace4 {
+    background-color: #e5d1ff; 
+    top: 10px
+  } 
+ 
+.pic4 {
+    position: absolute;
+    top: 1450px;
+    right: 40px;
+    z-index: 1;
+}
+  
+.footer {
+    background-color: #e5d1ff;
+    font-size: 25px;
+    padding: 20px
+  }
